@@ -1,0 +1,15 @@
+
+# Auto-added ignore rules
+.DS_Store
+.env
+.env.*
+*.env
+*.pem
+*.key
+secrets.toml
+client_secrets*.json
+venv/
+.venv/
+env/
+node_modules/
+__pycache__/
